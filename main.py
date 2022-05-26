@@ -56,6 +56,7 @@ elif userchoice == CPUchoice + 2:
   print("You win!")
 elif userchoice == CPUchoice - 2:
   print("You lose.")
-  
+else:
+  print("Unforseen case.")
 
 
